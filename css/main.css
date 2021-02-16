@@ -23,7 +23,7 @@ h2 {
 }
 
 p {
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 nav li {
@@ -31,7 +31,6 @@ nav li {
   list-style: none;
   font-family: "PT Sans", sans-serif;
   font-weight: bold;
-  color: #8f2440;
 }
 
 a:link {
@@ -78,4 +77,8 @@ li {
 .blockquote {
   font-style: italic;
   font-size: 1.5rem;
+}
+
+strong {
+  font-weight: normal;
 }
