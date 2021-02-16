@@ -39,6 +39,11 @@ a:link {
   color: #8f2440;
 }
 
+a:hover {
+  color: #3f1622;
+  text-decoration: underline;
+}
+
 img {
   width: 100%;
 }
@@ -68,4 +73,9 @@ h2 + p {
 
 li {
   list-style-type: lower-greek;
+}
+
+.blockquote {
+  font-style: italic;
+  font-size: 1.5rem;
 }
